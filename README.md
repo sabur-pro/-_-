@@ -15,7 +15,7 @@
 
 ## 🏃 Запуск
 ```bash
-python transport_problem.py
+python algo.py
 ```
 
 ## 🧮 Пример работы
